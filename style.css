@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    margin: 0 23px;
+    background-color: rgb(245,247,250);
+}
+header{
+    background-color: #18487B;
+    color: white;
+    text-align: center;
+    padding: 13px;
+    margin: 11px;
+    border-radius: 15px;
+}
+.pad{
+    padding: 7px;
+}
+header div a{
+    font-size: small;
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    border-radius: 15px;
+    background-color: #2A5784;
+}
+.mar{
+    border: #18487B solid;
+    background-color: white;
+    padding: 13px;
+    margin: 11px;
+    border-radius: 15px;
+}
+#about{
+    padding: 23px;
+    border: 0.5px solid rgba(0, 0, 0, 0.181);
+}
+h3{
+    color: #18487B;
+}
+.bord{
+    padding: 0.5px;
+    margin: 17px 0;
+    background-color: #2a578459;
+}
+#about img{
+    margin-right: 20px;
+    width: 110px;
+    border-radius: 50%;
+    float: left;
+}
+#about p{
+    padding-top: 35px;
+}
+#about h4{
+    margin-top: 21px;    
+}
+#about h4 a{
+    text-decoration: none;
+    background-color: #2A5784;
+    padding: 9px;
+    border-radius: 7px;
+    color: white;
+}
+#skills{
+    padding: 23px;
+    border: 0.5px solid rgba(0, 0, 0, 0.181);
+}
+.hamda h5{
+    color: #0B64AC;
+    padding: 9px 0;
+    font-size: medium;
+}
+.hamda{
+    width: 23%;
+    padding: 10px 15px;
+    margin: 0 7px;
+    display: inline-block;
+}
+#experience{
+    padding: 23px;
+    border: 0.5px solid rgba(0, 0, 0, 0.181);
+}
+#experience{
+    padding: 23px;
+    border: 0.5px solid rgba(0, 0, 0, 0.181);
+}
+.bord-left{
+    padding: 11px;
+    border-radius: 9px;
+    border-left: #18487B 3px solid;
+}
+.bord-left img{
+    margin-right: 20px;
+    width: 90px;
+    border-radius: 50%;
+    float: left;
+}
+.bord-left h5{
+    padding: 9px;
+}
+.bord-left p{
+    padding: 9px;
+}
+#contact{
+    padding: 23px;
+    background-color: #18487B;
+    border: 0.5px solid rgba(0, 0, 0, 0.181);
+}
+#contact h3{
+    color: white;
+}
+#contact .color-bord{
+    padding: 0.5px;
+    margin: 17px 0;
+    background-color: #2e6296;
+}
+#contact p{
+    color: white;
+    margin-bottom: 10px;
+}
+#contact div{
+    padding: 19PX 10px;
+}
+#contact div a{
+    margin: 12PX 10px;
+    color: white;
+    text-decoration: none;
+background-color: #2071b3d5;
+border-radius: 9px;
+padding: 9px;
+}
